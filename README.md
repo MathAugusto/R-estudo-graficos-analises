@@ -1,2 +1,2 @@
-# plots-and-graphs-in-R
+# estudo-R-graphs-analytics
 Study on graphs and plots using R language
